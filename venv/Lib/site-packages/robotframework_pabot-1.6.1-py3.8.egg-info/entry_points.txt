@@ -1,0 +1,3 @@
+[console_scripts]
+pabot = pabot.pabot:main
+

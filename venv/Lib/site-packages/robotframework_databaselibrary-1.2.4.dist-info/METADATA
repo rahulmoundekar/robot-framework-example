@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: robotframework-databaselibrary
+Version: 1.2.4
+Summary: Database utility library for Robot Framework
+Home-page: https://github.com/franz-see/Robotframework-Database-Library
+Author: Franz Allan Valencia See
+Author-email: franz.see@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires: robotframework
+
+UNKNOWN
+
+

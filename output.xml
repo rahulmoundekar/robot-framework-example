@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.1 (Python 3.8.1 on win32)" generated="20200511 15:16:08.371" rpa="false">
+<suite id="s1" name="GroupTest" source="E:\OnlyForPython\SELENIUM\RobotFramework\robot-framework-example\test_cases\GroupTest.robot">
+<test id="s1-t1" name="TC1">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Home page</arg>
+</arguments>
+<status status="PASS" starttime="20200511 15:16:08.429" endtime="20200511 15:16:08.429"></status>
+</kw>
+<tags>
+<tag>sanity</tag>
+</tags>
+<status status="PASS" starttime="20200511 15:16:08.428" endtime="20200511 15:16:08.430" critical="yes"></status>
+</test>
+<test id="s1-t2" name="TC3">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Contact Us</arg>
+</arguments>
+<status status="PASS" starttime="20200511 15:16:08.432" endtime="20200511 15:16:08.432"></status>
+</kw>
+<tags>
+<tag>sanity</tag>
+</tags>
+<status status="PASS" starttime="20200511 15:16:08.431" endtime="20200511 15:16:08.433" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200511 15:16:08.374" endtime="20200511 15:16:08.435"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0">Critical Tests</stat>
+<stat pass="2" fail="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="2" fail="0">sanity</stat>
+</tag>
+<suite>
+<stat pass="2" fail="0" id="s1" name="GroupTest">GroupTest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

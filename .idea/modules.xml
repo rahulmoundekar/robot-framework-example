@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PageObjectModelRobotFramework/.idea/PageObjectModelRobotFramework.iml" filepath="$PROJECT_DIR$/../PageObjectModelRobotFramework/.idea/PageObjectModelRobotFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Rest-API-Robot/.idea/Rest-API-Robot.iml" filepath="$PROJECT_DIR$/../Rest-API-Robot/.idea/Rest-API-Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/robot-framework-example.iml" filepath="$PROJECT_DIR$/.idea/robot-framework-example.iml" />
+    </modules>
+  </component>
+</project>
